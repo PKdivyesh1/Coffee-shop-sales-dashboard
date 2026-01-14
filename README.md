@@ -10,40 +10,40 @@ The dashboard helps stakeholders quickly analyze trends, compare sales, and make
 
 🎯 Objectives
 
-Analyze total sales over time
+- Analyze total sales over time
 
-Compare sales by country
+- Compare sales by country
 
-Track performance of different coffee types
+- Track performance of different coffee types
 
-Understand customer behavior using loyalty card data
+- Understand customer behavior using loyalty card data
 
-Provide interactive filtering for better analysis
+- Provide interactive filtering for better analysis
 
 🛠 Tools & Technologies Used
 
-Microsoft Excel
+- Microsoft Excel
 
-Pivot Tables
+- Pivot Tables
 
-Pivot Charts
+- Pivot Charts
 
-Slicers & Timelines
+- Slicers & Timelines
 
-Excel Formulas
+- Excel Formulas
 
-Data Visualization Techniques
+- Data Visualization Techniques
 
 📈 Dashboard Features
 
-Time-based sales analysis (monthly & yearly)
+- Time-based sales analysis (monthly & yearly)
 
-Sales by country comparison
+- Sales by country comparison
 
-Coffee type analysis (Arabica, Excelsa, Liberica, Robusta)
+- Coffee type analysis (Arabica, Excelsa, Liberica, Robusta)
 
-Package size filtering (0.2kg, 0.5kg, 1kg, 2.5kg)
+- Package size filtering (0.2kg, 0.5kg, 1kg, 2.5kg)
 
-Loyalty card based insights
+- Loyalty card based insights
 
-Interactive slicers for dynamic filtering
+- Interactive slicers for dynamic filtering
