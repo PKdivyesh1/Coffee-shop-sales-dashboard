@@ -6,6 +6,8 @@ It provides insights into coffee sales performance across different countries, c
 
 The dashboard helps stakeholders quickly analyze trends, compare sales, and make data-driven decisions.
 
+![Coffee Sales Dashboard](Dashboard.png)
+
 🎯 Objectives
 
 Analyze total sales over time
